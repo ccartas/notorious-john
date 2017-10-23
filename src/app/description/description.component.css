@@ -1,0 +1,10 @@
+.portrait{
+    border-radius: 50%;
+    border:solid 2px black;
+    height: 102px;
+    width: 102px;
+    float:left;
+    margin-top:60px;
+    margin-left:10px;
+    margin-right:10px;
+}
